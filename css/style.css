@@ -9,7 +9,7 @@ body {
   background: url(../images/backgrounds/architecture.jpg) center no-repeat;
   background-size: cover;
   background-attachment: fixed;
-  font-family: 'Gabriela', Arial, sans-serif;
+  font-family: Helvetica, Arial, sans-serif;
   font-size: 100%;
 }
 
@@ -37,14 +37,12 @@ h1 {
 h2 {
   font-size: 1.5em;
   margin-top: .5em;
-  color: #fff;
 }
 
 h3 {
-  font-family: serif;
-  font-size: 1em;
+  font-family: 'Gabriela', serif;
+  font-size: 1.5em;
   margin-top: .5em;
-  
 }
 
 img {
